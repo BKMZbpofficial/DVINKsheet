@@ -1,0 +1,20 @@
+{
+  "name": "Таркелия • Тест Героя",
+  "short_name": "Таркелия",
+  "description": "Конструктор героя Daggerheart для кампании «Двинк» в мире Таркелии.",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0910",
+  "theme_color": "#0b0910",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
